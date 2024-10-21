@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342E8186-F1E3-4A31-B955-67163747894B}|ConsoleApp1\\examples-cs.csproj|d:\\source\\edge-js-talk\\examples-cs\\examples-cs\\consoleapp1\\example_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342E8186-F1E3-4A31-B955-67163747894B}|ConsoleApp1\\examples-cs.csproj|solutionrelative:consoleapp1\\example_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342E8186-F1E3-4A31-B955-67163747894B}|ConsoleApp1\\examples-cs.csproj|d:\\source\\edge-js-talk\\examples-cs\\examples-cs\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342E8186-F1E3-4A31-B955-67163747894B}|ConsoleApp1\\examples-cs.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342E8186-F1E3-4A31-B955-67163747894B}|ConsoleApp1\\examples-cs.csproj|d:\\source\\edge-js-talk\\examples-cs\\examples-cs\\consoleapp1\\example_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342E8186-F1E3-4A31-B955-67163747894B}|ConsoleApp1\\examples-cs.csproj|solutionrelative:consoleapp1\\example_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342E8186-F1E3-4A31-B955-67163747894B}|ConsoleApp1\\examples-cs.csproj|d:\\source\\edge-js-talk\\examples-cs\\examples-cs\\consoleapp1\\example_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342E8186-F1E3-4A31-B955-67163747894B}|ConsoleApp1\\examples-cs.csproj|solutionrelative:consoleapp1\\example_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "example_06.cs",
+              "DocumentMoniker": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\ConsoleApp1\\example_06.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\example_06.cs",
+              "ToolTip": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\ConsoleApp1\\example_06.cs",
+              "RelativeToolTip": "ConsoleApp1\\example_06.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:04:04.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:02:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "example_05.cs",
+              "DocumentMoniker": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\ConsoleApp1\\example_05.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\example_05.cs",
+              "ToolTip": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\ConsoleApp1\\example_05.cs",
+              "RelativeToolTip": "ConsoleApp1\\example_05.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:00:40.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "example_01.cs",
+              "DocumentMoniker": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\ConsoleApp1\\example_01.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\example_01.cs",
+              "ToolTip": "D:\\source\\edge-js-talk\\examples-cs\\examples-cs\\ConsoleApp1\\example_01.cs",
+              "RelativeToolTip": "ConsoleApp1\\example_01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:00:20.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
