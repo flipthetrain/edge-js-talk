@@ -63,7 +63,9 @@ Tomasz Janczuk is a software engineer at Microsoft.  His current focus is node.j
 
 ---
 
-# Calling C# from Node
+# Why use Edge-js
+### Performance
+![](./assets/performance.png)
 
 ---
 
@@ -73,17 +75,21 @@ Tomasz Janczuk is a software engineer at Microsoft.  His current focus is node.j
 
 ---
 
+# Calling C# from Node
+
+---
+
 ### Installing Edge-js in Node Project  
-    - edge-js : npm install npm:@agracio/edge-js
+    - edge-js : npm install @agracio/edge-js
 
 ### Language Support  
-    - edge-cs : npm install npm:@agracio/edge-cs
-    - edge-sql : npm install npm:@agracio/edge-sql
-    - edge-fs : npm install npm:@agracio/edge-fs
-    - edge-ps : npm install npm:@agracio/edge-ps
-    - edge-py : npm install npm:@agracio/edge-py
-    - edge-iron-py : npm install npm:@agracio/edge-iron-py
-    - edge-lsharp : npm install npm:@agracio/edge-lsharp
+    - edge-cs : npm install @agracio/edge-cs - * you get this one for free with edge-js *
+    - edge-sql : npm install @agracio/edge-sql
+    - edge-fs : npm install @agracio/edge-fs
+    - edge-ps : npm install @agracio/edge-ps
+    - edge-py : npm install @agracio/edge-py
+    - edge-iron-py : npm install @agracio/edge-iron-py
+    - edge-lsharp : npm install @agracio/edge-lsharp
 
 ---
 
@@ -242,6 +248,18 @@ Calling .NET async from Node sync or calling .NET sync from Node async will fail
 
 Node is essentially a single threaded process with a message queue so you can not marshall threads to/from Node and .NET
 You may use threads within .NET but you MUST MANAGE ALL THREAD COMPLETION before returning back to Edge.
+
+---
+
+### Debugging C# 
+
+Edge will emmit debug symbols so you can use Visual Studio Debugger.  
+You must attach the running Node process.
+
+Set EDGE_CS_DEBUG environment variable prior to importing edge-js  
+```
+process.env.EDGE_CS_DEBUG="1"
+```
 
 --- 
 
